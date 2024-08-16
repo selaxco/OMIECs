@@ -25,3 +25,16 @@
 **Output:** llama3-70B-OMIEC160824_RESPONSES.xlsx
 
 ![1723823486038](image/README/1723823486038.png)
+
+
+---
+
+**Input:** "For the text I will input next, identify any Organic Mixed Ionic Electronic Conductors (OMIEC) polymers mentioned and provide only their names, separated by semicolons. If no such polymers are found in the text, the output should be 'None'. Do not repeat any polymer name. Do not output the polymer type. If the polymer name is written in full, replace it with its abbreviation."
+
+**temperature**=0.3
+
+**max_tokens**=1024
+
+**top_p**=0.9
+
+**Output:** llama3-70B-OMIEC160824_0.3_temp_RESPONSES.xlsx
